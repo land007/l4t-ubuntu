@@ -1,4 +1,5 @@
-FROM ubuntu:latest
+FROM ubuntu:18.04
+#latest 20.04
 
 MAINTAINER Jia Yiqiu <yiqiujia@hotmail.com>
 
